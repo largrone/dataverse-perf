@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FKA.Dataverse.ConsoleApp", "FKA.Dataverse.ConsoleApp\FKA.Dataverse.ConsoleApp.csproj", "{5D90FA83-42C5-4F92-98B9-77757E83D5DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIService", "..\..\PowerApps-Samples\dataverse\webapi\C#-NETx\WebAPIService\WebAPIService.csproj", "{561D6E32-E369-46C8-971A-7CBC4918FBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D90FA83-42C5-4F92-98B9-77757E83D5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D90FA83-42C5-4F92-98B9-77757E83D5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D90FA83-42C5-4F92-98B9-77757E83D5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D90FA83-42C5-4F92-98B9-77757E83D5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561D6E32-E369-46C8-971A-7CBC4918FBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561D6E32-E369-46C8-971A-7CBC4918FBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561D6E32-E369-46C8-971A-7CBC4918FBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561D6E32-E369-46C8-971A-7CBC4918FBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F14CF3C0-7920-47D9-9AB1-DBC504BE9B1F}
+	EndGlobalSection
+EndGlobal
